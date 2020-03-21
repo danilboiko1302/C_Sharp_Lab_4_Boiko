@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_PersonListApp.-623272246.00" t="ExcludeRecursive" />
+    <e p="C:\Users\User\RiderProjects\PersonListApp\C_Sharp_Lab_4_Boiko" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PersonListApp" t="IncludeRecursive">
+        <e p="AddEditWindow.xaml" t="Include" />
+        <e p="AddEditWindow.xaml.cs" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Exceptions" t="Include">
+          <e p="BirthdayInFutureException.cs" t="Include" />
+          <e p="InvalidEmailException.cs" t="Include" />
+          <e p="PersonIsTooOldException.cs" t="Include" />
+        </e>
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Person.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="AddEditWindow.g.cs" t="Include" />
+              <e p="App.g.cs" t="Include" />
+              <e p="MainWindow.g.cs" t="Include" />
+              <e p="PersonListApp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PersonListApp.csproj" t="IncludeRecursive" />
+        <e p="Tools" t="Include">
+          <e p="BaseViewModel.cs" t="Include" />
+          <e p="DataStorage" t="Include">
+            <e p="IDataStorage.cs" t="Include" />
+            <e p="SerializedDataStorage.cs" t="Include" />
+          </e>
+          <e p="FileFolderHelper.cs" t="Include" />
+          <e p="ILoaderOwner.cs" t="Include" />
+          <e p="Managers" t="Include">
+            <e p="LoaderManager.cs" t="Include" />
+            <e p="SerializationManager.cs" t="Include" />
+            <e p="StationManagercs.cs" t="Include" />
+          </e>
+          <e p="RelayCommand.cs" t="Include" />
+        </e>
+        <e p="ViewModels" t="Include">
+          <e p="AddEditViewModel.cs" t="Include" />
+          <e p="PersonListViewModel.cs" t="Include" />
+        </e>
+      </e>
+      <e p="PersonListApp.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
